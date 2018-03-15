@@ -11,3 +11,5 @@ ZCZC W02 telah mencoba lab 2
 ZCZC W03 telah mencoba isi dari lab 3
 
 ZCZC W04 telah mencoba lab 4
+
+ZCZC W05 telah mencoba isi dari lab 5
