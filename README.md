@@ -21,3 +21,5 @@ ZCZC W07 telah mencoba isi dari lab 7
 ZCZC W08 telah mencoba lab 8
 
 ZCZC W09 telah mencoba isi dari lab 9
+
+ZCZC W08 telah mencoba lab 10
