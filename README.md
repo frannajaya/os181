@@ -22,4 +22,4 @@ ZCZC W08 telah mencoba lab 8
 
 ZCZC W09 telah mencoba isi dari lab 9
 
-ZCZC W08 telah mencoba lab 10
+ZCZC W10 telah mencoba lab 10
